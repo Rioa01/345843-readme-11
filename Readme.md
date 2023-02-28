@@ -1,6 +1,6 @@
 # Личный проект «Readme»
 
-* Студент: [Три Десятова](https://up.htmlacademy.ru/php/11/user/345843).
+* Студент: [Ирина Тарасюк](https://up.htmlacademy.ru/php/11/user/2337793).
 * Наставник: [Алексей Стулов](https://up.htmlacademy.ru/php/11/user/25231).
 
 ---
